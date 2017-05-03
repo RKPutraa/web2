@@ -1,9 +1,9 @@
 <?php 
 include 'view/BerandaUItugas.php';
 
-$brd = new BerandaUI();
+$brd = new CobaBeranda();
 
-$brd->tampilLengkap();
+$brd->tampilKan();
 
 
  ?>
