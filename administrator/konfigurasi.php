@@ -1,9 +1,9 @@
 <?php 
 include 'view/BerandaUItugas.php';
 
-$brd = new CobaBeranda();
+$brd = new KonfigurasiUI();
 
-$brd->tampilKan();
+$brd->tampilForm();
 
 
  ?>

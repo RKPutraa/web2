@@ -4,10 +4,10 @@ require_once 'View.php';
 /**
 * 
 */
-class CobaBeranda extends View
+class KonfigurasiUI extends View
 {
 	
-	public function tampilKan()
+	public function tampilForm()
 	{
 		include_once 'pages/konfigurasi.php';
 		$this->end();
