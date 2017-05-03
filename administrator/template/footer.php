@@ -1,4 +1,10 @@
-
+                    </div>
+                    <!-- /.col-lg-12 -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container-fluid -->
+        </div>
     </div>
 
     <script src="template/assets/js/jquery.min.js"></script>
