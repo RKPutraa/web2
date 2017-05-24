@@ -1,9 +1,9 @@
 <?php 
 include 'view/TampilanBeranda.php';
 
-$brd = new TampilanUI();
+$tgs = new TampilanUI();
 
-$brd->tampilkanForm();
+$tgs->tampilkanForm();
 
 
  ?>
