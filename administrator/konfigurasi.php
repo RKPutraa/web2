@@ -1,7 +1,7 @@
 <?php 
-include 'view/BerandaUItugas.php';
+include 'view/konfigurasiUI.php';
 
-$brd = new KonfigurasiUI();
+$brd = new konfigurasiUI();
 
 $brd->tampilForm();
 

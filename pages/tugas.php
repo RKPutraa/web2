@@ -15,6 +15,7 @@
                 <a class="btn btn-primary" href="#">Read More <i class="fa fa-angle-right"></i></a>
 
                 <hr>
+                
 
                 <?php endforeach ?>
               
